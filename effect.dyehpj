@@ -1,6 +1,6 @@
 {
   "name": "未命名",
-  "lastModified": "Thu, 29 Oct 2026 07:20:20 GMT",
+  "lastModified": "Thu, 29 Oct 2026 09:33:00 GMT",
   "version": "9.7.2",
   "toolName": "Douyin AR",
   "renderNames": {
@@ -69,9 +69,9 @@
     "62": "Layer 62",
     "63": "Layer 63"
   },
-  "durationToCreate": 79795576,
-  "durationCreation": 79843367,
-  "durationBackground": 72548944,
+  "durationToCreate": 87755801,
+  "durationCreation": 81445168,
+  "durationBackground": 73765134,
   "effectHint": "",
   "templateID": "",
   "overwriteBuiltinGAN": 1,
@@ -87,7 +87,7 @@
   },
   "projectID": "7a1f088f-8f7f-1751-6acc-fff1b4abfd2e",
   "isNewCreatedProject": true,
-  "preUpgradeVersion": "0.1.0",
+  "preUpgradeVersion": "9.7.2",
   "previewProjID": "e9f4c474-5819-408a-2f01-c4c7c7e09e02",
   "templateName": "",
   "soundStartTime": 0,
