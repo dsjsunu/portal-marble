@@ -7,7 +7,6 @@
     "extraType": "ResItemMaterialOmtl",
     "name": "遮罩",
     "version": "0.6.0",
-    "rttiType": "Material",
     "authorizationInfo": "",
     "extendedInfo": {
       "isVisibleInInspector": true,
@@ -17,7 +16,6 @@
     "objGuid": "",
     "resourceFilePath": "C:\\Users\\26428\\AppData\\Local\\Douyin AR\\Resources\\BuiltinResource\\assets\\OrionShaderLibrary\\3D\\BuiltIn\\Occluder\\Occluder.omtl",
     "references": [],
-    "skinObjGuid": "Guid(4836990532894749552, 11207296073847057073)",
     "currAuslVersion": "1.0.0"
   }
 ]
